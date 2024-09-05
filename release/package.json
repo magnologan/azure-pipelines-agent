@@ -10,9 +10,9 @@
   "author": "Microsoft Corporation",
   "license": "MIT",
   "dependencies": {
-    "@octokit/rest": "^16.43.1",
+    "@octokit/rest": "^17.0.0",
     "azure-devops-node-api": "^10.2.2",
-    "azure-pipelines-task-lib": "^4.2.0",
+    "azure-pipelines-task-lib": "^4.16.0",
     "got": "^11.8.6",
     "node-getopt": "^0.3.2"
   }
